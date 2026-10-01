@@ -36,6 +36,7 @@ I work on the full lifecycle — data prep and modeling, backend APIs, and usabl
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -91,7 +92,7 @@ More to explore:
 
 - **ML classifiers and predictors** — genre classification, spam detection, stock forecasting with ARIMA/LSTM
 - **Document intelligence** — handwritten expression recognition, document Q&A, LaTeX transcription
-- **RAG and LLM agents** — LangChain pipelines over Hugging Face, Ollama, and Gemini models
+- **RAG and LLM agents** — LangChain pipelines over Hugging Face, Ollama, llama.cpp, and Gemini models
 - **Full-stack apps** — React + Vite + MUI frontends backed by Python and MySQL
 - **Interactive demos** — Streamlit dashboards that make models usable, not just notebooks
 
